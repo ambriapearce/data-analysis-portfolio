@@ -17,16 +17,13 @@ My focus area include:
 ---
 
 ## Projects Overview
-| 🌐 Project | 📝 Description | 🧰 Tools & Methods |
-|-------------|----------------|-------------------|
-| 🌪️ [**Storm Signals: The Data Behind Natural Disasters and Human Resilience**](link-to-repo-or-folder) | A two-part project exploring how greenhouse gas emissions and climate change contribute to natural disasters like *Hurricane Melissa*, and how communities recover through a neuroscience-informed lens. | Python, Pandas, GeoPandas, Seaborn, Plotly, Statsmodels |
-| 🧬 [Global Health Data Explorer](link-coming-soon) | An analysis of global disease outbreaks and health disparities using WHO and World Bank data. | Python, Pandas, Matplotlib, Tableau |
-| 🏙️ [Inequality in the City: Canada’s Social Divide](link-coming-soon) | A deep dive into public data on housing, healthcare, and education inequities across Canadian provinces. | Python, Seaborn, GeoPandas, Statistics |
-| 🧠 [Behaviour Under Pressure: A Neuroscience-Inspired Data Study](link-coming-soon) | How environmental stress, socioeconomic factors, and brain health data intersect in shaping decision-making. | Python, Numpy, Scikit-learn, Data Visualization |
+
+**In Progress: Data behind natural disasters and human resiliance.**  
+**Description:** Two part project exploring how climate change & green house gas emissions contribute to natural disasters like **Hurrican Melissa** and how communities recover through a neuroscience perspective.
 
 ---
 
-## Skills Demonstrated
+## Skills 
 
 | 🧩 Skill Area | 💡 Description |
 |---------------|----------------|
@@ -40,7 +37,7 @@ My focus area include:
 
 
 ## Connect
-**LinkedIn:**[]  
+**LinkedIn:**[https://uk.linkedin.com/in/ambriapearce]  
 **Medium:**[]  
 **Email:**[]
 
